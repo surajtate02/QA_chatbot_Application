@@ -1,0 +1,6 @@
+flask
+beautifulsoup4
+urllib3
+tensorflow
+pandas
+scikit-learn
